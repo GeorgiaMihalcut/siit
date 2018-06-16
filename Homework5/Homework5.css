@@ -1,0 +1,77 @@
+#Tot {
+    width: 1200px;
+    height: 600px;
+}
+
+body {
+    background-color: rgb(153, 222, 242);
+    font-family: Arial;
+
+}
+
+#Titlu {
+    width: 1200px;
+    height: 200px;
+    text-align: center;
+    overflow: hidden;
+}
+
+#Butoane {
+    width: 1200px;
+    height: 80px;
+    overflow: hidden;
+    text-align: center;
+}
+
+#Text {
+    width: 1000px;
+    height: 300px;
+    margin: auto;
+    background-color: white;
+    overflow: hidden;
+    border-radius: 10px;
+    border-style: solid;
+    border-width: 3px;
+    border-color: blue;
+}
+
+#MWT {
+    font-size: 70px;
+    margin: 0;
+    margin-top: 30px;
+    font-weight: bold;
+}
+
+#Short {
+    color: white;
+    font-size: 20px;
+}
+
+.But {
+    width: 90px;
+    height: 30px;
+    margin: 30px 7px 0 7px;
+    background-color: rgb(252, 255, 192);
+    border-radius: 6px;
+}
+
+#Poza {
+    width: 200px;
+    height: 120px;
+    border-width: 2px;
+    border-style: solid;
+    border-color: black;
+    display: inline;
+    float: left;
+    margin-right: 10px;
+}
+
+#LatinText {
+    float: right;
+    display: inline;
+}
+
+.Aliniere {
+    margin-left: 20px;
+    margin-right: 20px;
+}

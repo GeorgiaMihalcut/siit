@@ -1,0 +1,111 @@
+#Fundal {
+    background-color: rgb(228, 238, 250);
+    width: 1000px;
+    height: 600px;
+    margin: auto;
+    padding-top: 3px;
+}
+
+#Stanga {
+    width: 744px;
+    height: 597px;
+    float: left;
+    margin-left: 5px;
+}
+
+
+#Template {
+    background-color: rgb(208, 235, 142);
+    width: 744px;
+    height: 120px;
+    float: left;
+    
+}
+
+#Continut {
+    background-color: rgb(255, 255, 255);
+    float: left;
+    width: 744px;
+    height: 477px;
+}
+
+
+#Dreapta {
+    width: 244px;
+    height: 597px;
+    float: right;
+    margin-right: 5px;
+}
+
+#Ipgamez {
+    background-color: rgb(255, 140, 47);
+    width: 244px;
+    height: 120px;
+}
+
+#Adresa {
+    line-height: 120px;
+    text-align: center;
+    vertical-align: middle;
+    margin: 0;
+}
+#Novinky {
+    background-color: rgb(208, 235, 142);
+    width: 244px;
+    height: 477px;
+    overflow: hidden;
+}
+
+#Homebut {
+    background-color: rgb(255, 140, 47);
+    width: 744px;
+    height: 40px;
+
+}
+
+.Home {
+    text-align: center;
+    line-height: 40px;
+    vertical-align: middle;
+    margin-left: 30px;
+    margin-right: 60px;
+    color: white;
+    text-decoration: underline;
+}
+
+#TemplateTitle {
+    color: rgb(105, 133, 10);
+    font-style: oblique;
+    line-height: 120px;
+    vertical-align: middle;
+    margin: 0 0 0 40px;
+
+}
+
+#Text {
+    margin-left: 20px;
+}
+#Vitejte {
+    font-style: oblique;
+    color: darkblue;
+}
+
+body {
+    font-family: verdana;
+    font-size: 14px;
+}
+
+#NovinkyTitle {
+    font-style: oblique;
+    color: darkblue;
+    margin: 20px 0 20px 10px;
+}
+
+.Q {
+    color: rgb(148, 169, 68);
+    margin: 0 0 0 10px;
+}
+
+.R {
+    margin: 10px 0 10px 10px;
+}

@@ -1,0 +1,15 @@
+#titlu {
+    text-align: center;
+    margin-top: 100px;
+}
+
+
+#text {
+    width: 37%;
+    margin: auto;
+    text-align: justify;
+}
+
+#Error {
+    margin-top: -21px;
+}

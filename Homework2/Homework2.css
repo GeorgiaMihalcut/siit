@@ -1,0 +1,180 @@
+#Part1 {
+    width: 750px;
+    height: 120px;
+    background-color: rgb(189, 217, 45);
+    margin: auto;
+
+}
+
+#Alinieretext {
+    margin-left: 450px;
+    padding: 20px;
+}
+
+#Slogan {
+    margin-top: -15px;
+}
+
+#Home {
+    text-align: center;
+    margin: auto;
+    width: 750px;
+    height: 40px;
+    background-color: rgb(234, 230, 203);
+    margin-top: 5px;
+}
+body {
+    background-color: rgb(224, 212, 138);
+}
+
+.Newpage {
+    margin: 20px;
+    width: 40px;
+    text-align: center;
+    line-height: 40px;
+    vertical-align: middle;
+}
+
+#Part2 {
+    background-color: rgb(235, 226, 193);
+    height: 700px;
+    width: 750px;
+    margin: auto;
+}
+
+#Stanga {
+    height: 570px;
+    width: 150px;
+    float: left;
+    margin-top: 10px;
+}
+
+
+
+#MainMenu {
+    background-color: rgb(210, 211, 94);
+    width: 150px;
+    height: 50px;
+    font-style: bold;
+    font-size: 20px;
+}
+
+#Continut {
+    width: 750px;
+    height: 570px;
+}
+
+#MainMenuText {
+    margin: auto;
+    line-height: 60px;
+    vertical-align: middle;
+
+}
+ .MenuItems {
+     text-decoration: underline;
+     width: 200px;
+     height: 220px;
+     color: darkgreen;
+ }
+
+ .MenuItemsclass {
+     margin: 4px;
+ }
+#Block {
+    background-color: rgb(210, 211, 94);
+    width: 150px;
+    height: 50px;
+    font-style: bold;
+    font-size: 20px; 
+}
+#BlockText {
+    margin: auto;
+    line-height: 60px;
+    vertical-align: middle;
+}
+
+#Text {
+    width: 150px;
+    height: 200px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+#Part3 {
+    text-align: center;
+    background-color: rgb(189, 217, 45);
+    width: 750px;
+    height: 50px;
+}
+
+#Copyright {
+    line-height: 50px;
+    vertical-align: middle;
+}
+
+#Dreapta {
+    height: 570px;
+    width: 590px;
+    float: right;
+    margin-top: 10px;
+}
+
+#Gallery {
+    width: 590px;
+    height: 280px;
+    margin-bottom: 10px;
+}
+
+#SOS {
+    width: 590px;
+    height: 280px;
+}
+
+#GalleryTitle {
+    font-size: 25px;
+    margin: 0;
+    margin-left: 5px;
+}
+
+#TextGallery {
+    margin-left: 5px;
+}
+#Subscription {
+    float: left;
+    height: 280px;
+    width: 280px;
+}
+
+#OtherServices {
+    float: right;
+    height: 280px;
+    width: 280px;
+}
+
+#SubscriptionTitle {
+    font-size: 25px;
+    margin-left: 5px;
+    margin-top: 10px;
+}
+
+#OtherServicesTitle {
+    font-size: 25px;
+    margin-left: 5px;
+    margin-top: 10px;
+}
+
+.Readmore {
+    background-color:  rgb(189, 217, 45);
+    height: 40px;
+    width: 120px;
+    margin-left: 10px;
+}
+
+.Blabla {
+    margin-left: 10px;
+}
+
+#Vitejte {
+    font-style: oblique;
+    color: darkblue;
+}
