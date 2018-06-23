@@ -1,0 +1,29 @@
+#Stanga {
+    background-color: rgb(33, 99, 107);
+    color: white;
+    float: left;
+    width: 20%;
+    height: 100vh;
+    text-align: center;
+}
+#MainTut {
+    color: yellow;
+}
+#SiteMap {
+    color: turquoise;
+}
+
+a {
+    color: white;
+}
+
+#SearchText {
+    width: 100px;
+    height: 15px;
+}
+
+#Dreapta {
+    float: right;
+    width: 78%;
+    height: 100vh;
+}
